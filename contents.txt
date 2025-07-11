@@ -2,3 +2,4 @@ Home
 Library
 Search
 Setting
+Profile
