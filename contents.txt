@@ -4,3 +4,4 @@ Search
 Setting
 Profile
 Some new info
+other info
